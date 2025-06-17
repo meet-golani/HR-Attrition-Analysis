@@ -20,13 +20,15 @@ Who is most likely to leave the company and why?
 Which departments, education fields, and salary levels are most vulnerable to attrition?
 How can HR teams intervene early to prevent avoidable turnover?
 
-📂 Folder Structure
-📁 visuals/ → Contains dashboard screenshots for preview and documentation
-📁 data/ → Contains the cleaned HR dataset used in the project
-📁 report/ → Final written report in both .docx and .pdf format
-📄 DSBI.ipynb → Python notebook used for data preprocessing and EDA
-📄 README.md → This file, which explains the project in detail
-📄 HR_Dashboard.pbix → Power BI file for the HR Attrition dashboard
+<br> <pre>
+📂 Folder Structure  
+📁 visuals/ → Contains dashboard screenshots for preview and documentation  
+📁 data/ → Contains the cleaned HR dataset used in the project  
+📁 report/ → Final written report in both .docx and .pdf format  
+📄 DSBI.ipynb → Python notebook used for data preprocessing and EDA  
+📄 README.md → This file, which explains the project in detail  
+📄 HR_Dashboard.pbix → Power BI file for the HR Attrition dashboard  
+</pre>
 
 
 🧹 Preprocessing Steps (DSBI.ipynb)
