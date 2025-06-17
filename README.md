@@ -1,7 +1,7 @@
 # HR Attrition Analysis Dashboard
 An interactive Power BI dashboard backed by Python preprocessing to understand employee churn trends, identify high-risk segments, and help HR teams make data-driven retention decisions.
 This project focuses on uncovering patterns that drive employee attrition, such as job role, monthly income, age, tenure, education, and performance. By combining Python for preprocessing and Power BI for visualization, this dashboard serves as a decision-making tool to help HR departments proactively manage workforce stability and retention.
-
+```
 🚀 Project Overview
 This project combines the power of Python and Power BI to deliver meaningful insights from HR data.
 Python (Pandas, Matplotlib, Seaborn) was used to:
